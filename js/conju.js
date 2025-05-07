@@ -1,5 +1,7 @@
 $(document).ready(function(){
-    $("#game").hide()    
+    $("#game").hide()  
+    
+      
 })
 
 var score = 0;
