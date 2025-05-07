@@ -1,0 +1,176 @@
+body{
+    background: #ff004c;
+}
+
+nav, #sidebar, #content{
+    background: #ff0;
+    box-shadow: 10px 10px 1px 0px #8a0029;
+}
+
+#content{
+    border-radius: 15px;
+}
+
+
+#title{
+    color: #ff004c;
+    text-shadow: 2px 2px #57001a;
+
+}
+
+.nav-link{
+    color: #ff004c;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+nav, #nav{
+    margin-bottom: 1em;
+}
+
+#newsbar{
+    background: #ffffff;
+    margin-bottom: 2em;
+    color: #ff004c;
+
+}
+
+#content, #sidebar{
+    color: #ff004c;
+
+
+}
+
+#sidebar{
+    width: ;
+}
+
+.card {
+    margin-left: 2em;
+    margin-right: 8em;
+    width: 250px;
+    border-radius: 15px;
+    background: #ff0;
+    color: #ff004c;
+    font-weight: 600;
+    font-size: 1.2em;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 5px 5px 1px 0px #8a0029;
+
+}
+
+.element{
+    color: #ff004c;
+    font-size: .8em;
+    padding: 6px 15px;
+    border-left: 2px solid #ff004c;
+    cursor: pointer;
+}
+
+.active{
+    background-color: #004d92;
+    border-left: 2px solid #8cb4ff;
+    color: azure;
+}
+
+.element:hover:not(.active) {
+    color: #fff;
+}
+
+.newsbar{
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    background:  #ff0;
+    color: #ff004c;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    position: relative;
+    box-shadow: 6px 6px #8a0029;
+    margin-bottom: 1em;
+}
+
+.news-content{
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll-left 45s linear infinite;
+}
+
+.news-content span{
+    display: inline-block;
+    margin-right: 50px;
+}
+
+@keyframes scroll-left {
+    from {
+        transform: translateX(0%);
+    }
+    to {
+        transform: translateX(-100%);
+    }
+}
+
+
+
+/* -----------gender.css------------------------ */
+
+#start{
+    text-align: center;
+    background-color: #ff0;
+    color: #ff004c;
+    padding: 2rem;
+}
+
+#startBtn, #submit{
+    background: #ff004c;
+    padding: 1rem 2rem;
+    color: #fff;
+    border: #333 1px solid;
+    border-radius: 1rem;
+}
+
+#game{
+    margin-top: 1rem;
+    background-color: #ff0;
+    color: #ff004c;
+    text-align: center;
+    padding: 2rem;
+}
+
+#quest{
+    margin-top: 3rem;
+}
+
+/* -------------------------------------------- */
+
+/* ------------------navbar-------------------------- */
+
+
+
+
+
+/* ----------reactivity----------------------- */
+
+@media (min-width: 400px) {
+
+}
+@media (min-width: 768px) {
+    #navLinks{
+        display: inline-flex
+    };
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1133px) {}
+@media (min-width: 1366px) {}
+
+
+
+
+/* ----------------------------------------------- */

@@ -1,0 +1,1432 @@
+[
+    {
+     "pronoun": "Yo",
+     "verb": "soy",
+     "predicate": "yo soy",
+     "infinitive": "ser",
+     "sentence": "Soy estudiante de medicina.",
+     "empty": "\"_______\" estudiante de medicina.",
+     "translation": "\"I am\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "eres",
+     "predicate": "tú eres",
+     "infinitive": "ser",
+     "sentence": "Tú eres muy amable.",
+     "empty": "Tú \"_______\" muy amable.",
+     "translation": "\"You are\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "es",
+     "predicate": "él\/ella es",
+     "infinitive": "ser",
+     "sentence": "Él es mi hermano.",
+     "empty": "Él \"_______\" mi hermano.",
+     "translation": "\"He is\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "fui",
+     "predicate": "yo fui",
+     "infinitive": "ser",
+     "sentence": "Fui al cine ayer.",
+     "empty": "\"_______\" al cine ayer.",
+     "translation": "\"I was\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "fuiste",
+     "predicate": "tú fuiste",
+     "infinitive": "ser",
+     "sentence": "Tú fuiste a la tienda ayer.",
+     "empty": "Tú \"_______\" a la tienda ayer.",
+     "translation": "\"You were\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "fue",
+     "predicate": "él\/ella fue",
+     "infinitive": "ser",
+     "sentence": "La reunión fue interesante.",
+     "empty": "La reunión \"_______\" interesante.",
+     "translation": "\"It was\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "siendo",
+     "predicate": "siendo",
+     "infinitive": "ser",
+     "sentence": "Estoy siendo muy cuidadoso.",
+     "empty": "Estoy \"_______\" muy cuidadoso.",
+     "translation": "\"being\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "sería",
+     "predicate": "yo sería",
+     "infinitive": "ser",
+     "sentence": "Sería mas feliz en otro país",
+     "empty": "\"_______\" mas feliz en otro país",
+     "translation": "\"I would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "serías",
+     "predicate": "tú serías",
+     "infinitive": "ser",
+     "sentence": "Tú serías un buen líder.",
+     "empty": "Tú \"_______\" un buen líder.",
+     "translation": "\"You would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "sería",
+     "predicate": "él\/ella sería",
+     "infinitive": "ser",
+     "sentence": "Él sería feliz con el resultado.",
+     "empty": "Él \"_______\" feliz con el resultado.",
+     "translation": "\"He would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "sé",
+     "predicate": "sé",
+     "infinitive": "ser",
+     "sentence": "Sé honesta cuando hablas.",
+     "empty": "\"_______\" honesto cuando hablas.",
+     "translation": "\"Be\"",
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "(Usted)",
+     "verb": "sea",
+     "predicate": "sea",
+     "infinitive": "ser",
+     "sentence": "Sea honesta cuando habla.",
+     "empty": "Sea honesta cuando habla.",
+     "translation": "\"Be\"",
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "seré",
+     "predicate": "yo seré",
+     "infinitive": "ser",
+     "sentence": "Seré doctor algún día.",
+     "empty": "Sé honesta cuando hablas.",
+     "translation": "\"I will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "serás",
+     "predicate": "tú serás",
+     "infinitive": "ser",
+     "sentence": "Tú serás famoso.",
+     "empty": "Tú \"_______\" famoso.",
+     "translation": "\"You will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "será",
+     "predicate": "él\/ella será",
+     "infinitive": "ser",
+     "sentence": "Ella será una gran artista.",
+     "empty": "Ella \"_______\" una gran artista.",
+     "translation": "\"She will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "estoy",
+     "predicate": "yo estoy",
+     "infinitive": "estar",
+     "sentence": "Estoy cansado después del trabajo.",
+     "empty": "\"_______\" cansado después del trabajo.",
+     "translation": "\"I am\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "estás",
+     "predicate": "tú estás",
+     "infinitive": "estar",
+     "sentence": "Tú estás feliz con el resultado.",
+     "empty": "Tú \"_______\" feliz con el resultado.",
+     "translation": "\"You are\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "está",
+     "predicate": "él\/ella está",
+     "infinitive": "estar",
+     "sentence": "Él está en su casa.",
+     "empty": "Él \"_______\" en su casa.",
+     "translation": "\"He is\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "estuve",
+     "predicate": "yo estuve",
+     "infinitive": "estar",
+     "sentence": "Estuve en Madrid la semana pasada.",
+     "empty": "\"_______\" en Madrid la semana pasada.",
+     "translation": "\"I was\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "estuviste",
+     "predicate": "tú estuviste",
+     "infinitive": "estar",
+     "sentence": "Tú estuviste en la fiesta ayer.",
+     "empty": "Tú \"_______\" en la fiesta ayer.",
+     "translation": "\"You were\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "estuvo",
+     "predicate": "él\/ella estuvo",
+     "infinitive": "estar",
+     "sentence": "Ella estuvo enferma la semana pasada.",
+     "empty": "Ella \"_______\" enferma la semana pasada.",
+     "translation": "\"It was\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "estando",
+     "predicate": "estando",
+     "infinitive": "estar",
+     "sentence": "Estando en la playa, me sentí relajado.",
+     "empty": "\"_______\" en la playa, me sentí relajado.",
+     "translation": "\"being\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "estaría",
+     "predicate": "yo estaría",
+     "infinitive": "estar",
+     "sentence": "Yo estaría feliz si me invitan.",
+     "empty": "Yo \"_______\" feliz si me invitan.",
+     "translation": "\"I would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "estarías",
+     "predicate": "tú estarías",
+     "infinitive": "estar",
+     "sentence": "Tú estarías mejor si descansaras.",
+     "empty": "Tú \"_______\" mejor si descansaras.",
+     "translation": "\"You would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "estaría",
+     "predicate": "él\/ella estaría",
+     "infinitive": "estar",
+     "sentence": "Él estaría en casa ahora mismo.",
+     "empty": "Él \"_______\" en casa ahora mismo.",
+     "translation": "\"He would be\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "está",
+     "predicate": "está",
+     "infinitive": "estar",
+     "sentence": "Está tranquilo.",
+     "empty": "\"_______\" tranquilo.",
+     "translation": "\"Be\"",
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "(Usted)",
+     "verb": "esté",
+     "predicate": "esté",
+     "infinitive": "estar",
+     "sentence": "Esté tranquilo.",
+     "empty": "\"_______\" tranquilo.",
+     "translation": "\"Be\"",
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "estaré",
+     "predicate": "yo estaré",
+     "infinitive": "estar",
+     "sentence": "Estaré en la reunión a las 3.",
+     "empty": "\"_______\" en la reunión a las 3.",
+     "translation": "\"I will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "estarás",
+     "predicate": "tú estarás",
+     "infinitive": "estar",
+     "sentence": "Tú estarás cansado después del ejercicio.",
+     "empty": "Tú \"_______\" cansado después del ejercicio.",
+     "translation": "\"You will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "estará",
+     "predicate": "él\/ella estará",
+     "infinitive": "estar",
+     "sentence": "Ella estará en la tienda más tarde.",
+     "empty": "Ella \"_______\" en la tienda más tarde.",
+     "translation": "\"She will be\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "tengo",
+     "predicate": "yo tengo",
+     "infinitive": "tener",
+     "sentence": "Tengo dos hermanos.",
+     "empty": "\"_______\" dos hermanos.",
+     "translation": "\"I have\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "tienes",
+     "predicate": "tú tienes",
+     "infinitive": "tener",
+     "sentence": "Tú tienes un perro.",
+     "empty": "Tú \"_______\" un perro.",
+     "translation": "\"You have\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "tiene",
+     "predicate": "él\/ella tiene",
+     "infinitive": "tener",
+     "sentence": "Él tiene una casa nueva.",
+     "empty": "Él \"_______\" una casa nueva.",
+     "translation": "\"He has\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "tuve",
+     "predicate": "yo tuve",
+     "infinitive": "tener",
+     "sentence": "Tuve una sorpresa ayer.",
+     "empty": "\"_______\" una sorpresa ayer.",
+     "translation": "\"I had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "tuviste",
+     "predicate": "tú tuviste",
+     "infinitive": "tener",
+     "sentence": "Tú tuviste una idea brillante.",
+     "empty": "Tú \"_______\" una idea brillante.",
+     "translation": "\"You had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "tuvo",
+     "predicate": "él\/ella tuvo",
+     "infinitive": "tener",
+     "sentence": "Ella tuvo una conversación interesante.",
+     "empty": "Ella \"_______\" una conversación interesante.",
+     "translation": "\"She had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "teniendo",
+     "predicate": "teniendo",
+     "infinitive": "tener",
+     "sentence": "Estoy teniendo un dia bueno.",
+     "empty": "Estoy \"_______\" un dia bueno.",
+     "translation": "\"having\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "tendría",
+     "predicate": "yo tendría",
+     "infinitive": "tener",
+     "sentence": "Tendría más tiempo si no trabajara tanto.",
+     "empty": "\"_______\" más tiempo si no trabajara tanto.",
+     "translation": "\"I would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "tendrías",
+     "predicate": "tú tendrías",
+     "infinitive": "tener",
+     "sentence": "Tú tendrías éxito si te esfuerzas.",
+     "empty": "Tú \"_______\" éxito si te esfuerzas.",
+     "translation": "\"You would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "tendría",
+     "predicate": "él\/ella tendría",
+     "infinitive": "tener",
+     "sentence": "Él tendría una casa más grande si tuviera dinero.",
+     "empty": "Él \"_______\" una casa más grande si tuviera dinero.",
+     "translation": "\"He would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "ten",
+     "predicate": "ten",
+     "infinitive": "tener",
+     "sentence": "Ten cuidado al cruzar la calle.",
+     "empty": "\"_______\" cuidado al cruzar la calle.",
+     "translation": "\"Have\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "tendré",
+     "predicate": "yo tendré",
+     "infinitive": "tener",
+     "sentence": "Tendré que estudiar más para el examen.",
+     "empty": "\"_______\" que estudiar más para el examen.",
+     "translation": "\"I will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "tendrás",
+     "predicate": "tú tendrás",
+     "infinitive": "tener",
+     "sentence": "Tú tendrás todo lo que necesites.",
+     "empty": "Tú \"_______\" todo lo que necesites.",
+     "translation": "\"You will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella será",
+     "verb": "tendrá",
+     "predicate": "él\/ella tendrá",
+     "infinitive": "tener",
+     "sentence": "Él tendrá una respuesta pronto.",
+     "empty": "Él \"_______\" una respuesta pronto.",
+     "translation": "\"She will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "he",
+     "predicate": "yo he",
+     "infinitive": "haber",
+     "sentence": "He terminado el proyecto.",
+     "empty": "\"_______\" terminado el proyecto.",
+     "translation": "\"I have\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "has",
+     "predicate": "tú has",
+     "infinitive": "haber",
+     "sentence": "Tú has visto esa película.",
+     "empty": "Tú \"_______\" visto esa película.",
+     "translation": "\"You have\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "ha",
+     "predicate": "él\/ella ha",
+     "infinitive": "haber",
+     "sentence": "Él ha hecho mucho por la comunidad.",
+     "empty": "Él \"_______\" hecho mucho por la comunidad.",
+     "translation": "\"He has\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "hube",
+     "predicate": "yo hube",
+     "infinitive": "haber",
+     "sentence": "Hube visitado varios países antes de mudarme aquí.",
+     "empty": "\"_______\" visitado varios países antes de mudarme aquí.",
+     "translation": "\"I had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "hubiste",
+     "predicate": "tú hubiste",
+     "infinitive": "haber",
+     "sentence": "Tú hubiste olvidado la cita.",
+     "empty": "Tú \"_______\" olvidado la cita.",
+     "translation": "\"You had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "hubo",
+     "predicate": "él\/ella hubo",
+     "infinitive": "haber",
+     "sentence": "Hubo una gran fiesta el sábado.",
+     "empty": "\"_______\" una gran fiesta el sábado.",
+     "translation": "\"They had\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "habiendo",
+     "predicate": "habiendo",
+     "infinitive": "haber",
+     "sentence": "Habiendo estudiado, ahora puedo hacer el examen.",
+     "empty": "\"_______\" estudiado, ahora puedo hacer el examen.",
+     "translation": "\"Having\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "habría",
+     "predicate": "yo habría",
+     "infinitive": "haber",
+     "sentence": "Habría comprado la casa si tuviera más dinero.",
+     "empty": "\"_______\" comprado la casa si tuviera más dinero.",
+     "translation": "\"I would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "habrías",
+     "predicate": "tú habrías",
+     "infinitive": "haber",
+     "sentence": "Tú habrías pasado si no hubieras estudiado.",
+     "empty": "Tú \"_______\" pasado si no hubieras estudiado.",
+     "translation": "\"You would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "habría",
+     "predicate": "él\/ella habría",
+     "infinitive": "haber",
+     "sentence": "Ella habría llegado tarde si no hubiera corrido.",
+     "empty": "Ella \"_______\" llegado tarde si no hubiera corrido.",
+     "translation": "\"She would have\"",
+     "tense": "Conditional"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "habré",
+     "predicate": "yo habré",
+     "infinitive": "haber",
+     "sentence": "Habré terminado el informe mañana.",
+     "empty": "\"_______\" terminado el informe mañana.",
+     "translation": "\"I will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "habrás",
+     "predicate": "tú habrás",
+     "infinitive": "haber",
+     "sentence": "Tú habrás terminado el proyecto antes de la fecha límite.",
+     "empty": "Tú \"_______\" terminado el proyecto antes de la fecha límite.",
+     "translation": "\"You will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "habrá",
+     "predicate": "él\/ella habrá",
+     "infinitive": "haber",
+     "sentence": "Habrá más personas en la reunión.",
+     "empty": "\"_______\" más personas en la reunión.",
+     "translation": "\"It will have\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "hago",
+     "predicate": "yo hago",
+     "infinitive": "hacer",
+     "sentence": "Hago ejercicio todos los días.",
+     "empty": "\"_______\" ejercicio todos los días.",
+     "translation": "\"I do\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "haces",
+     "predicate": "tú haces",
+     "infinitive": "hacer",
+     "sentence": "Tú haces tu tarea en la tarde.",
+     "empty": "Tú \"_______\" tu tarea en la tarde.",
+     "translation": "\"You do\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "hace",
+     "predicate": "él\/ella hace",
+     "infinitive": "hacer",
+     "sentence": "Él hace su trabajo muy bien.",
+     "empty": "Él \"_______\" su trabajo muy bien.",
+     "translation": "\"He does\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "hice",
+     "predicate": "yo hice",
+     "infinitive": "hacer",
+     "sentence": "Hice una presentación ayer.",
+     "empty": "\"_______\" una presentación ayer.",
+     "translation": "\"I did\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "hiciste",
+     "predicate": "tú hiciste",
+     "infinitive": "hacer",
+     "sentence": "Tú hiciste una buena elección.",
+     "empty": "Tú \"_______\" una buena elección.",
+     "translation": "\"You did\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "hizo",
+     "predicate": "él\/ella hizo",
+     "infinitive": "hacer",
+     "sentence": "Ella hizo un pastel para su cumpleaños.",
+     "empty": "Ella \"_______\" un pastel para su cumpleaños.",
+     "translation": "\"She did\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "haciendo",
+     "predicate": "haciendo",
+     "infinitive": "hacer",
+     "sentence": "Haciendo ejercicio, me siento más saludable.",
+     "empty": "\"_______\" ejercicio, me siento más saludable.",
+     "translation": "\"Doing\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "haría",
+     "predicate": "yo haría",
+     "infinitive": "hacer",
+     "sentence": "Yo haría el trabajo si me pidieras.",
+     "empty": "Yo \"_______\" el trabajo si me pidieras.",
+     "translation": "\"I would do\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "harías",
+     "predicate": "tú harías",
+     "infinitive": "hacer",
+     "sentence": "Tú harías bien en estudiar más.",
+     "empty": "Tú \"_______\" bien en estudiar más.",
+     "translation": "\"You would do\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "haría",
+     "predicate": "él\/ella haría",
+     "infinitive": "hacer",
+     "sentence": "Él haría el viaje si tuviera dinero.",
+     "empty": "Él \"_______\" el viaje si tuviera dinero.",
+     "translation": "\"He would do\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "haz",
+     "predicate": "haz",
+     "infinitive": "hacer",
+     "sentence": "Haz tu tarea antes de salir.",
+     "empty": "\"_______\" tu tarea antes de salir.",
+     "translation": "\"Do\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "haré",
+     "predicate": "yo haré",
+     "infinitive": "hacer",
+     "sentence": "Haré todo lo posible por ayudarte.",
+     "empty": "\"_______\" todo lo posible por ayudarte.",
+     "translation": "\"I will do\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "harás",
+     "predicate": "tú harás",
+     "infinitive": "hacer",
+     "sentence": "Tú harás lo que sea necesario para ganar.",
+     "empty": "Tú \"_______\" lo que sea necesario para ganar.",
+     "translation": "\"You will do\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "hará",
+     "predicate": "él\/ella hará",
+     "infinitive": "hacer",
+     "sentence": "Ella hará todo lo posible por mejorar.",
+     "empty": "Ella \"_______\" todo lo posible por mejorar.",
+     "translation": "\"She will do\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "puedo",
+     "predicate": "yo puedo",
+     "infinitive": "poder",
+     "sentence": "Yo puedo correr rápido.",
+     "empty": "Yo \"_______\" correr rápido.",
+     "translation": "\"I can\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "puedes",
+     "predicate": "tú puedes",
+     "infinitive": "poder",
+     "sentence": "¿Puedes ayudarme?",
+     "empty": "¿\"_______\" ayudarme?",
+     "translation": "\"You can\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "puede",
+     "predicate": "él\/ella puede",
+     "infinitive": "poder",
+     "sentence": "Ella puede venir mañana.",
+     "empty": "Ella \"_______\" venir mañana.",
+     "translation": "\"Ella can\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "pude",
+     "predicate": "yo pude",
+     "infinitive": "poder",
+     "sentence": "Pude terminar el trabajo ayer.",
+     "empty": "\"_______\" terminar el trabajo ayer.",
+     "translation": "\"I could've\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "pudiste",
+     "predicate": "tú pudiste",
+     "infinitive": "poder",
+     "sentence": "¿Pudiste abrir la puerta?",
+     "empty": "¿\"_______\" abrir la puerta?",
+     "translation": "\"You could've\" or \"Could you have\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "pudo",
+     "predicate": "él\/ella pudo",
+     "infinitive": "poder",
+     "sentence": "Él pudo resolver el problema.",
+     "empty": "Él \"_______\" resolver el problema.",
+     "translation": "\"He could've\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "pudiendo",
+     "predicate": "pudiendo",
+     "infinitive": "poder",
+     "sentence": "Está pudiendo adaptarse al nuevo horario.",
+     "empty": "Está \"_______\" adaptarse al nuevo horario.",
+     "translation": "\"being\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "podría",
+     "predicate": "yo podría",
+     "infinitive": "poder",
+     "sentence": "Podría visitarte este fin de semana.",
+     "empty": "\"_______\" visitarte este fin de semana.",
+     "translation": "\"I would be able\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "podrías",
+     "predicate": "tú podrías",
+     "infinitive": "poder",
+     "sentence": "¿Podrías explicarlo otra vez?",
+     "empty": "¿\"_______\" explicarlo otra vez?",
+     "translation": "\"You would be able\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "podría",
+     "predicate": "él\/ella podría",
+     "infinitive": "poder",
+     "sentence": "Ella podría ganar el premio.",
+     "empty": "Ella \"_______\" ganar el premio.",
+     "translation": "\"She would be able\"",
+     "tense": "Conditional"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "podré",
+     "predicate": "yo podré",
+     "infinitive": "poder",
+     "sentence": "Mañana podré ayudarte.",
+     "empty": "Mañana \"_______\" ayudarte.",
+     "translation": "\"I will be able\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "podrás",
+     "predicate": "tú podrás",
+     "infinitive": "poder",
+     "sentence": "¿Podrás venir a tiempo?",
+     "empty": "¿\"_______\" venir a tiempo?",
+     "translation": "\"You will be able\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella será",
+     "verb": "podrá",
+     "predicate": "él\/ella podrá",
+     "infinitive": "poder",
+     "sentence": "Ella podrá terminar el proyecto.",
+     "empty": "Ella \"_______\" terminar el proyecto.",
+     "translation": "\"She will be able\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "digo",
+     "predicate": "yo digo",
+     "infinitive": "decir",
+     "sentence": "Yo digo la verdad.",
+     "empty": "Yo \"_______\" la verdad.",
+     "translation": "\"I say\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "dices",
+     "predicate": "tú dices",
+     "infinitive": "decir",
+     "sentence": "Tú dices muchas cosas.",
+     "empty": "Tú \"_______\" muchas cosas.",
+     "translation": "\"You say\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "dice",
+     "predicate": "él\/ella dice",
+     "infinitive": "decir",
+     "sentence": "Él dice que no puede venir.",
+     "empty": "Él \"_______\" que no puede venir.",
+     "translation": "\"He says\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "dije",
+     "predicate": "yo dije",
+     "infinitive": "decir",
+     "sentence": "Ayer dije lo que pensaba.",
+     "empty": "Ayer \"_______\" lo que pensaba.",
+     "translation": "\"I said\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "dijiste",
+     "predicate": "tú dijiste",
+     "infinitive": "decir",
+     "sentence": "¿Qué dijiste anoche?",
+     "empty": "¿Qué \"_______\" anoche?",
+     "translation": "\"You said\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "dijo",
+     "predicate": "él\/ella dijo",
+     "infinitive": "decir",
+     "sentence": "Ella dijo que sí.",
+     "empty": "Ella \"_______\" que sí.",
+     "translation": "\"She said\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "diciendo",
+     "predicate": "diciendo",
+     "infinitive": "decir",
+     "sentence": "Está diciendo algo importante.",
+     "empty": "Está \"_______\" algo importante.",
+     "translation": "\"saying\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "diría",
+     "predicate": "yo diría",
+     "infinitive": "decir",
+     "sentence": "Yo diría que es buena idea.",
+     "empty": "Yo \"_______\" que es buena idea.",
+     "translation": "\"I would say\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "dirías",
+     "predicate": "tú dirías",
+     "infinitive": "decir",
+     "sentence": "¿Qué dirías tú en su lugar?",
+     "empty": "¿Qué \"_______\" tú en su lugar?",
+     "translation": "\"You would say\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "diría",
+     "predicate": "él\/ella diría",
+     "infinitive": "decir",
+     "sentence": "Ella diría la verdad.",
+     "empty": "Ella \"_______\" la verdad.",
+     "translation": "\"He would say\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "di",
+     "predicate": "di",
+     "infinitive": "decir",
+     "sentence": "¡Di tu nombre!",
+     "empty": "¡\"_______\" tu nombre!",
+     "translation": "\"Say\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "diré",
+     "predicate": "yo diré",
+     "infinitive": "decir",
+     "sentence": "Mañana te lo diré.",
+     "empty": "Mañana te lo \"_______\".",
+     "translation": "\"I will say\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "dirás",
+     "predicate": "tú dirás",
+     "infinitive": "decir",
+     "sentence": "¿Qué dirás tú?",
+     "empty": "¿Qué \"_______\" tú?",
+     "translation": "\"You will say\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "dirá",
+     "predicate": "él\/ella dirá",
+     "infinitive": "decir",
+     "sentence": "Él dirá algo pronto.",
+     "empty": "Él \"_______\" algo pronto.",
+     "translation": "\"She will say\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "voy",
+     "predicate": "yo voy",
+     "infinitive": "ir",
+     "sentence": "Voy al supermercado.",
+     "empty": "\"_______\" al supermercado.",
+     "translation": "\"I go\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "vas",
+     "predicate": "tú vas",
+     "infinitive": "ir",
+     "sentence": "¿Vas al cine hoy?",
+     "empty": "¿\"_______\" al cine hoy?",
+     "translation": "\"You go\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "va",
+     "predicate": "él\/ella va",
+     "infinitive": "ir",
+     "sentence": "Ella va a trabajar temprano.",
+     "empty": "Ella \"_______\" a trabajar temprano.",
+     "translation": "\"She goes\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "fui",
+     "predicate": "yo fui",
+     "infinitive": "ir",
+     "sentence": "Fui a la playa el verano pasado.",
+     "empty": "\"_______\" a la playa el verano pasado.",
+     "translation": "\"I went\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "fuiste",
+     "predicate": "tú fuiste",
+     "infinitive": "ir",
+     "sentence": "¿Fuiste al concierto?",
+     "empty": "¿\"_______\" al concierto?",
+     "translation": "\"You went\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "fue",
+     "predicate": "él\/ella fue",
+     "infinitive": "ir",
+     "sentence": "Él fue el mejor jugador.",
+     "empty": "Él \"_______\" el mejor jugador.",
+     "translation": "\"He went\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "yendo",
+     "predicate": "yendo",
+     "infinitive": "ir",
+     "sentence": "Está yendo a casa ahora.",
+     "empty": "Está \"_______\" a casa ahora.",
+     "translation": "\"going\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "iría",
+     "predicate": "yo iría",
+     "infinitive": "ir",
+     "sentence": "Iría contigo si pudiera.",
+     "empty": "\"_______\" contigo si pudiera.",
+     "translation": "\"I would go\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "irías",
+     "predicate": "tú irías",
+     "infinitive": "ir",
+     "sentence": "¿Irías a ese país?",
+     "empty": "¿\"_______\" a ese país?",
+     "translation": "\"You would go\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "iría",
+     "predicate": "él\/ella iría",
+     "infinitive": "ir",
+     "sentence": "Ella iría pero está ocupada.",
+     "empty": "Ella \"_______\" pero está ocupada.",
+     "translation": "\"She would go\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "ve",
+     "predicate": "ve",
+     "infinitive": "ir",
+     "sentence": "¡Ve a dormir!",
+     "empty": "¡\"_______\" a dormir!",
+     "translation": "\"Go\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "iré",
+     "predicate": "yo iré",
+     "infinitive": "ir",
+     "sentence": "Iré mañana temprano.",
+     "empty": "\"_______\" mañana temprano.",
+     "translation": "\"I will go\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "irás",
+     "predicate": "tú irás",
+     "infinitive": "ir",
+     "sentence": "¿Irás tú también?",
+     "empty": "¿\"_______\" tú también?",
+     "translation": "\"You will go\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "irá",
+     "predicate": "él\/ella irá",
+     "infinitive": "ir",
+     "sentence": "Él irá al doctor.",
+     "empty": "Él \"_______\" al doctor.",
+     "translation": "\"He will go\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "veo",
+     "predicate": "yo veo",
+     "infinitive": "ver",
+     "sentence": "Veo dos tipos.",
+     "empty": "\"_______\" dos tipos.",
+     "translation": "\"I see\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "ves",
+     "predicate": "tú ves",
+     "infinitive": "ver",
+     "sentence": "¿Ves ese edificio?",
+     "empty": "¿\"_______\" ese edificio?",
+     "translation": "\"You are\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "ve",
+     "predicate": "él\/ella ve",
+     "infinitive": "ver",
+     "sentence": "Ella ve la diferencia.",
+     "empty": "Ella \"_______\" la diferencia.",
+     "translation": "\"He is\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "vi",
+     "predicate": "yo vi",
+     "infinitive": "ver",
+     "sentence": "Vi una estrella fugaz.",
+     "empty": "\"_______\" una estrella fugaz.",
+     "translation": "\"I saw\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "viste",
+     "predicate": "tú viste",
+     "infinitive": "ver",
+     "sentence": "¿Viste el partido?",
+     "empty": "¿\"_______\" el partido?",
+     "translation": "\"You saw\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "vio",
+     "predicate": "él\/ella vio",
+     "infinitive": "ver",
+     "sentence": "Él vio algo extraño.",
+     "empty": "Él \"_______\" algo extraño.",
+     "translation": "\"He saw\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "viendo",
+     "predicate": "viendo",
+     "infinitive": "ver",
+     "sentence": "Estamos viendo una serie.",
+     "empty": "Estamos \"_______\" una serie.",
+     "translation": "\"seeing\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "vería",
+     "predicate": "yo vería",
+     "infinitive": "ver",
+     "sentence": "Vería la película otra vez.",
+     "empty": "\"_______\" la película otra vez.",
+     "translation": "\"I would see\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "verías",
+     "predicate": "tú verías",
+     "infinitive": "ver",
+     "sentence": "¿Verías ese programa?",
+     "empty": "¿\"_______\" ese programa?",
+     "translation": "\"You would see\" or \"Would you see\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "vería",
+     "predicate": "él\/ella vería",
+     "infinitive": "ver",
+     "sentence": "Ella vería a sus amigos.",
+     "empty": "Ella \"_______\" a sus amigos.",
+     "translation": "\"He would see\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "ve",
+     "predicate": "ve",
+     "infinitive": "ver",
+     "sentence": "Ve al médico si te duele.",
+     "empty": "\"_______\" al médico si te duele.",
+     "translation": "\"See\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "veré",
+     "predicate": "yo veré",
+     "infinitive": "ver",
+     "sentence": "Mañana veré qué pasa.",
+     "empty": "Mañana \"_______\" qué pasa.",
+     "translation": "\"I will see\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "verás",
+     "predicate": "tú verás",
+     "infinitive": "ver",
+     "sentence": "Verás que todo mejora.",
+     "empty": "\"_______\" que todo mejora.",
+     "translation": "\"You will see\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "verá",
+     "predicate": "él\/ella verá",
+     "infinitive": "ver",
+     "sentence": "Él verá el resultado pronto.",
+     "empty": "Él \"_______\" el resultado pronto.",
+     "translation": "\"He will see\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "doy",
+     "predicate": "yo doy",
+     "infinitive": "dar",
+     "sentence": "Te doy un regalo.",
+     "empty": "Te \"_______\" un regalo.",
+     "translation": "\"I give\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "das",
+     "predicate": "tú das",
+     "infinitive": "dar",
+     "sentence": "¿Das clases de inglés?",
+     "empty": "¿\"_______\" clases de inglés?",
+     "translation": "\"You give\" ",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "da",
+     "predicate": "él\/ella da",
+     "infinitive": "dar",
+     "sentence": "Ella da buenos consejos.",
+     "empty": "Ella \"_______\" buenos consejos.",
+     "translation": "\"He gives\"",
+     "tense": "Present"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "di",
+     "predicate": "yo di",
+     "infinitive": "dar",
+     "sentence": "Le di un abrazo.",
+     "empty": "Le \"_______\" un abrazo.",
+     "translation": "\"I gave\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "diste",
+     "predicate": "tú diste",
+     "infinitive": "dar",
+     "sentence": "¿Diste la respuesta correcta?",
+     "empty": "¿\"_______\" la respuesta correcta?",
+     "translation": "\"You gave\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "dio",
+     "predicate": "él\/ella dio",
+     "infinitive": "dar",
+     "sentence": "Él dio un gran discurso.",
+     "empty": "Él \"_______\" un gran discurso.",
+     "translation": "\"It gave\"",
+     "tense": "Past"
+    },
+    {
+     "pronoun": "(stative verb) +",
+     "verb": "dando",
+     "predicate": "dando",
+     "infinitive": "dar",
+     "sentence": "Está dando una conferencia.",
+     "empty": "Está \"_______\" una conferencia.",
+     "translation": "\"giving\"",
+     "tense": "Progressive"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "daría",
+     "predicate": "yo daría",
+     "infinitive": "dar",
+     "sentence": "Daría todo por verte feliz.",
+     "empty": "\"_______\" todo por verte feliz.",
+     "translation": "\"I would give\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "darías",
+     "predicate": "tú darías",
+     "infinitive": "dar",
+     "sentence": "¿Darías tu apoyo?",
+     "empty": "¿\"_______\" tu apoyo?",
+     "translation": "\"You would give\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "daría",
+     "predicate": "él\/ella daría",
+     "infinitive": "dar",
+     "sentence": "Ella daría su tiempo.",
+     "empty": "Ella \"_______\" su tiempo.",
+     "translation": "\"He would give\"",
+     "tense": "Conditional"
+    },
+    {
+     "pronoun": "(Tú)",
+     "verb": "da",
+     "predicate": "da",
+     "infinitive": "dar",
+     "sentence": "Da lo mejor de ti.",
+     "empty": "\"_______\" lo mejor de ti.",
+     "translation": "\"Give\"",
+     "tense": "Imperative"
+    },
+    {
+     "tense": "Imperative"
+    },
+    {
+     "pronoun": "Yo",
+     "verb": "daré",
+     "predicate": "yo daré",
+     "infinitive": "dar",
+     "sentence": "Mañana te daré el informe.",
+     "empty": "Mañana te \"_______\" el informe.",
+     "translation": "\"I will give\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Tú",
+     "verb": "darás",
+     "predicate": "tú darás",
+     "infinitive": "dar",
+     "sentence": "¿Darás tú el discurso?",
+     "empty": "¿\"_______\" tú el discurso?",
+     "translation": "\"You will give\" or \"Will you give\"",
+     "tense": "Future"
+    },
+    {
+     "pronoun": "Él\/Ella",
+     "verb": "dará",
+     "predicate": "él\/ella dará",
+     "infinitive": "dar",
+     "sentence": "Él dará su opinión.",
+     "empty": "Él \"_______\" su opinión.",
+     "translation": "\"He will give\"",
+     "tense": "Future"
+    }
+   ]
